@@ -1,6 +1,7 @@
 Doing
 =====
 
+- [JRR Limb Usage](doing/jrr_limb_usage.md)
 - [Eye and Arm Latency](doing/latency.md)
 - [Spike sorting for Larry](doing/spike_sorting_for_larry.md)
 
