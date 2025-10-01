@@ -12,6 +12,5 @@ Tue Sep 30 2025
 I plotted RT data for the two recent ephys behavior sessions.
 I found that the slow saccades were absent, though this may be because there were no extremely lateral reaches in these data.
 
-
 TODO
 - [ ] Email Larry about saccade detection.
