@@ -4,6 +4,8 @@ Doing
 - [Eye and Arm Latency](doing/latency.md)
 - [Spike sorting for Larry](doing/spike_sorting_for_larry.md)
 
+foo
+
 
 Inactive
 ========
