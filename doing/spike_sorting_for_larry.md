@@ -1,5 +1,3 @@
-- Figure out which else needs sorting
-
 Done:
 - /data/multimem/fen/2025-06-03
 
